@@ -4,7 +4,7 @@
 
 The autoselect directive selects all text inside a textbox.
 
-## Building mv-autoselect.js
+## Building mv-autoselect
 
 Once you have your environment setup, run:
 
